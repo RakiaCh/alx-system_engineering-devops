@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -A1 | sed -z 's/\n/, /g; s/\/,/\//g; s/, $/\n/'
+ls -1map [0-9a-zA-Z]*
