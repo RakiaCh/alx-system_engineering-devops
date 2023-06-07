@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1map [0-9a-zA-Z]*
+ls -map [.0-9a-zA-Z]*
